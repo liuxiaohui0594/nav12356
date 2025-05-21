@@ -40,7 +40,7 @@
       description: 高质量苹果IPA应用和游戏下载
     - title: 爱奇艺
       qrcode:
-      logo:  images/logos/aliuedcn.png
+      logo: images/logos/aliuedcn.png
       url: https://m.iqiyi.com
       description: 爱奇艺官网视频平台
     - title: 腾讯视频
