@@ -60,7 +60,7 @@
       description: 二维码演示，手机扫一扫，也可以点击
     
 
-- taxonomy: 网盘资源
+- taxonomy: 教程资源
   icon: fa-regular fa-newspaper
   links: 
     - title: 我的小站
@@ -72,46 +72,46 @@
       logo: images/logos/36kr.png
       url: https://www.freedidi.com/17535.html
       description: 通过 Cloudflare 的 worker 、Pages 搭建永久免费的VPN，真正无限流量！
-    - title: 数英网
+    - title: 永久免费域名零基础小白教程
       logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
+      url: https://kjgx668.blogspot.com/2025/04/digitalplat-cloudflare-us.kg-dpdns.org-cns.html#google_vignette
+      description: 最新永久免费域名注册教程！永久免费域名零基础小白教程！百分百成功！仅需一个邮箱！无需信用卡，零成本！百分百成功！永久有效！并手把手演示托管Cloudflare进行证书解析切勿错过 【真实可用】无需实名制，不需要绑卡，人人可得，一键搭建节点 、网站、博客等
+    - title: ClouDNS免费域名com和net
       logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
+      url: https://www.cloudns.net/index/show/login/
+      description: ClouDNS通过全球选播DNS网络提供快速安全的免费DNS托管和高级DNS托管。
+    - title: 十六进制转换工具
       logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
+      url: https://www.sojson.com/hexconvert/10to16.html
+      description: 十进制转十六进制、10进制转16进制
+    - title: nekoray
       logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
+      url: https://github.com/Matsuridayo/nekoray/releases
+      description: 本软件为 Windows/Linux 端节点调试工具，适合有一定基础和学习能力的用户使用。机场用户建议使用其他软件
+    - title: itdog 
       logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
+      url: https://www.itdog.cn/ping/liuxiaohui0594.ip-ddns.com
+      description: 多地Ping、常规版、icmp协议、网络延迟测试liuxiaohui0594.ip-ddns.com
+    - title: IPV6测试
       logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
+      url: https://testipv6.cn/
+      description: IPv6 连接测试
+    - title: CloudNS
       logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
+      url: https://www.bilibili.com/video/BV1soQUYSEK6/?vd_source=8214918d12470d34bba24addbdfbc8fd
+      description: CloudNS 免费注册 & Cloudflare 托管教程（保姆级）
+    - title: 泰坦之旅
       logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
+      url: https://www.bilibili.com/video/BV1Bg411H7mf/?spm_id_from=333.337.search-card.all.click
+      description: 泰坦之旅修改存档
+    - title: 免费高速vpn
       logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
+      url: https://kjgx668.blogspot.com/2025/04/freevpn-2025-cloudflare-warp-vps-chatgpt-netflix-bpb.html
+      description: 仅需一部手机搭建bpb3.2.4版系列 全平台 永久免费高速vpn 2025最新 永久免费节点 无限流量 不限速，轻松满宽带！cloudflare warp的最佳替代品 无需电脑 无需vps 无需服务器 完全免费！晚高峰YouTube视频4K秒开解锁chatgpt 流媒体奈飞
+    - title: 泰坦之旅:不朽王座
       logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+      url: https://wap.gamersky.com/gl/Content-103376.html
+      description: 《泰坦之旅:不朽王座》图文全攻略
     
 
 - taxonomy: 灵感采集
