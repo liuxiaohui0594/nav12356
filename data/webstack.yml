@@ -15,7 +15,7 @@
       description: 顶级设计师交流平台，来自世界各地的设计师在这里分享自己的项目。
     - title: CCTV节目官网
       qrcode:
-      logo: images/logos/behance.png
+      logo: images/logos/112.png
       url: https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
       description: 央视TV平台。
     - title: iPA应用商店
