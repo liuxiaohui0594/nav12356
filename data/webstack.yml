@@ -5,12 +5,12 @@
   links: 
     - title: Cloudflare
       qrcode:
-      logo: images/logos/cdc.png
+      logo: images/logos/111.png
       url: https://dash.cloudflare.com/
       description: 全球免费托管域名的平台。
     - title: Github
       qrcode:
-      logo: images/logos/blender.png
+      logo: images/logos/222.png
       url: https://github.com/
       description: 顶级设计师交流平台，来自世界各地的设计师在这里分享自己的项目。
     - title: CCTV节目官网
