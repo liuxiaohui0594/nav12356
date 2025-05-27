@@ -68,8 +68,12 @@
       logo: images/logos/leiphone.png
       url: https://pan666.net/t/video
       description: 阿里云盘资源共享站
-    
-
+    - title: 泰坦之旅
+      qrcode:
+      logo: images/logos/leiphone.png
+      url: https://wap.gamersky.com/gl/Content-103376_13.html
+      description: 《泰坦之旅:不朽王座》图文全攻略
+      
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
